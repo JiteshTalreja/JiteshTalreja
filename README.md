@@ -1,5 +1,117 @@
-# 💫 About Me:
-👋 Hi, I’m Jitesh Talreja<br>I’m a Senior Data Engineer / Backend Engineer with 7+ years of experience designing and building scalable data platforms, cloud-native systems, and analytics solutions for global enterprises. Currently, I work at Deloitte, where I help large clients modernize legacy data systems and adopt cloud-first, AI-ready architectures.<br>I sit at the intersection of Data Engineering, Cloud Infrastructure, and Applied AI, and I’m actively evolving toward Staff / Principal-level engineering roles.<br>🚀 What I’m Currently Working On<br>Designing enterprise-scale data platforms on AWS + Snowflake<br>Building high-throughput ETL pipelines using PySpark, Glue, Airflow, and SQL<br>Developing Retrieval-Augmented Generation (RAG) systems using vector databases, embeddings, and LLM orchestration<br>Applying system design principles to distributed, fault-tolerant backend services<br>Preparing for Senior / Staff Data Engineer & AI Engineer interviews (Google-scale expectations)<br>🧠 What I’m Currently Learning<br>Advanced RAG architectures (chunking strategies, hybrid search, evaluation, cost optimization)<br>LLM systems design: tool calling vs agents, hybrid agent architectures, memory & orchestration<br>Cloud-native distributed systems (scalability, reliability, observability)<br>Advanced Python & Spark internals for high-performance data processing<br>AI platform design aligned with real-world production constraints<br>🤝 I’m Looking to Collaborate On<br>RAG / GenAI projects (enterprise use cases preferred)<br>Open-source data engineering or AI tooling<br>System design discussions (Google / Meta / Uber scale)<br>Knowledge-sharing sessions around AWS, Spark, Snowflake, and LLMs<br>If you’re building something serious in data, AI, or backend systems, I’m always open to collaborating.<br>🧑‍🏫 I Love Helping With<br>Data engineering career guidance (mid → senior → staff)<br>Interview prep for Python, PySpark, AWS, SQL<br>Explaining complex topics like RAG, distributed systems, and cloud architecture in simple terms<br>Resume optimization for data & AI roles<br>💬 Ask Me About<br>Data Warehouses vs Data Lakes vs Lakehouse<br>AWS Glue architecture & optimization<br>PySpark performance tuning<br>RAG system design in production<br>Backend system design interviews<br>Moving from Data Engineer → AI Engineer<br>🛠️ Core Skills & Tech Stack<br>Languages: Python, SQL<br>Big Data: PySpark, Spark SQL<br>Cloud: AWS (S3, Glue, Lambda, Redshift, IAM)<br>Data Platforms: Snowflake<br>Orchestration: Apache Airflow<br>AI / GenAI: RAG, embeddings, vector databases, LLM orchestration<br>Engineering: Distributed systems, system design, performance optimization<br>Infra: Terraform, CloudFormation<br>Ways of Working: Agile, cross-team collaboration, mentorship<br>🎯 Career Direction<br>I’m actively positioning myself for Senior / Staff-level roles where I can:<br>Own architecture decisions<br>Lead high-impact data & AI initiatives<br>Mentor engineers<br>Build systems that scale to millions of users and petabytes of data<br>⚡ Fun Fact<br>I enjoy breaking down extremely complex systems—from Spark internals to LLM agent architectures—into explanations that actually make sense. If something feels confusing, I probably enjoy explaining it 😄
+<h1>👋 Hi, I’m Jitesh Talreja</h1>
+
+<p>
+  I’m a <strong>Senior Data Engineer / Backend Engineer</strong> with <strong>7+ years of experience</strong>
+  designing and building <strong>scalable data platforms, cloud-native systems, and analytics solutions</strong>
+  for global enterprises.
+</p>
+
+<p>
+  Currently, I work at <strong>Deloitte</strong>, where I help large clients modernize legacy data systems and
+  adopt <strong>cloud-first, AI-ready architectures</strong>.
+</p>
+
+<p>
+  I sit at the intersection of <strong>Data Engineering, Cloud Infrastructure, and Applied AI</strong>,
+  and I’m actively evolving toward <strong>Staff / Principal-level engineering roles</strong>.
+</p>
+
+<hr/>
+
+<h2>🚀 What I’m Currently Working On</h2>
+<ul>
+  <li>Designing <strong>enterprise-scale data platforms</strong> on <strong>AWS + Snowflake</strong></li>
+  <li>Building <strong>high-throughput ETL pipelines</strong> using PySpark, Glue, Airflow, and SQL</li>
+  <li>Developing <strong>Retrieval-Augmented Generation (RAG)</strong> systems using vector databases, embeddings, and LLM orchestration</li>
+  <li>Applying <strong>system design principles</strong> to distributed, fault-tolerant backend services</li>
+  <li>Preparing for <strong>Senior / Staff Data Engineer & AI Engineer interviews</strong> (Google-scale expectations)</li>
+</ul>
+
+<hr/>
+
+<h2>🧠 What I’m Currently Learning</h2>
+<ul>
+  <li>Advanced <strong>RAG architectures</strong> (chunking strategies, hybrid search, evaluation, cost optimization)</li>
+  <li><strong>LLM systems design</strong>: tool calling vs agents, hybrid agent architectures, memory & orchestration</li>
+  <li><strong>Cloud-native distributed systems</strong> (scalability, reliability, observability)</li>
+  <li>Advanced <strong>Python & Spark internals</strong> for high-performance data processing</li>
+  <li><strong>AI platform design</strong> aligned with real-world production constraints</li>
+</ul>
+
+<hr/>
+
+<h2>🤝 I’m Looking to Collaborate On</h2>
+<ul>
+  <li><strong>RAG / GenAI projects</strong> (enterprise use cases preferred)</li>
+  <li><strong>Open-source</strong> data engineering or AI tooling</li>
+  <li><strong>System design discussions</strong> (Google / Meta / Uber scale)</li>
+  <li><strong>Knowledge-sharing sessions</strong> around AWS, Spark, Snowflake, and LLMs</li>
+</ul>
+
+<p>
+  If you’re building something serious in <strong>data, AI, or backend systems</strong>,
+  I’m always open to collaborating.
+</p>
+
+<hr/>
+
+<h2>🧑‍🏫 I Love Helping With</h2>
+<ul>
+  <li>Data engineering career guidance (mid → senior → staff)</li>
+  <li>Interview prep for <strong>Python, PySpark, AWS, SQL</strong></li>
+  <li>Explaining complex topics like <strong>RAG, distributed systems, and cloud architecture</strong> in simple terms</li>
+  <li>Resume optimization for <strong>data & AI roles</strong></li>
+</ul>
+
+<hr/>
+
+<h2>💬 Ask Me About</h2>
+<ul>
+  <li>Data Warehouses vs Data Lakes vs Lakehouse</li>
+  <li>AWS Glue architecture & optimization</li>
+  <li>PySpark performance tuning</li>
+  <li>RAG system design in production</li>
+  <li>Backend system design interviews</li>
+  <li>Transitioning from <strong>Data Engineer → AI Engineer</strong></li>
+</ul>
+
+<hr/>
+
+<h2>🛠️ Core Skills & Tech Stack</h2>
+<ul>
+  <li><strong>Languages:</strong> Python, SQL</li>
+  <li><strong>Big Data:</strong> PySpark, Spark SQL</li>
+  <li><strong>Cloud:</strong> AWS (S3, Glue, Lambda, Redshift, IAM)</li>
+  <li><strong>Data Platforms:</strong> Snowflake</li>
+  <li><strong>Orchestration:</strong> Apache Airflow</li>
+  <li><strong>AI / GenAI:</strong> RAG, embeddings, vector databases, LLM orchestration</li>
+  <li><strong>Engineering:</strong> Distributed systems, system design, performance optimization</li>
+  <li><strong>Infrastructure:</strong> Terraform, CloudFormation</li>
+  <li><strong>Ways of Working:</strong> Agile, cross-team collaboration, mentorship</li>
+</ul>
+
+<hr/>
+
+<h2>🎯 Career Direction</h2>
+<p>
+  I’m actively positioning myself for <strong>Senior / Staff-level roles</strong> where I can:
+</p>
+<ul>
+  <li>Own <strong>architecture decisions</strong></li>
+  <li>Lead <strong>high-impact data & AI initiatives</strong></li>
+  <li>Mentor engineers</li>
+  <li>Build systems that scale to <strong>millions of users and petabytes of data</strong></li>
+</ul>
+
+<hr/>
+
+<h2>⚡ Fun Fact</h2>
+<p>
+  I enjoy breaking down <strong>extremely complex systems</strong>—from Spark internals to LLM agent architectures—
+  into explanations that actually make sense.  
+  If something feels confusing, I probably enjoy explaining it 😄
+</p>
+
 
 
 ## 🌐 Socials:
