@@ -1,7 +1,7 @@
 <h1>👋 Hi, I’m Jitesh Talreja</h1>
 
 <p>
-  I’m a <strong>Senior Data Engineer / Backend Engineer</strong> with <strong>7+ years of experience</strong>
+  I’m a <strong>Senior Data Engineer / Backend Engineer</strong> with <strong>8+ years of experience</strong>
   designing and building <strong>scalable data platforms, cloud-native systems, and analytics solutions</strong>
   for global enterprises.
 </p>
