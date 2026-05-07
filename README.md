@@ -1,118 +1,71 @@
-<h1>👋 Hi, I’m Jitesh Talreja</h1>
+<div align="center">
+  <h1>👋 Hi, I’m Jitesh Talreja</h1>
+  <h3>Senior Data Engineer | Cloud Architect | AI & Backend Specialist</h3>
+  <p><i>Designing enterprise-scale data platforms and intelligent, cloud-native systems.</i></p>
+</div>
 
-<p>
-  I’m a <strong>Senior Data Engineer / Backend Engineer</strong> with <strong>8+ years of experience</strong>
-  designing and building <strong>scalable data platforms, cloud-native systems, and analytics solutions</strong>
-  for global enterprises.
-</p>
+---
 
-<p>
-  Currently, I work at <strong>Deloitte</strong>, where I help large clients modernize legacy data systems and
-  adopt <strong>cloud-first, AI-ready architectures</strong>.
-</p>
+### 👨‍💻 About Me
+I am a **Senior Data & Backend Engineer** with **8+ years of experience** building scalable, high-performance architectures for global enterprises. Currently at **Deloitte**, I specialize in end-to-end system ownership—bridging the gap between massive legacy data migrations and modern, AI-ready platforms.
 
-<p>
-  I sit at the intersection of <strong>Data Engineering, Cloud Infrastructure, and Applied AI</strong>,
-  and I’m actively evolving toward <strong>Staff / Principal-level engineering roles</strong>.
-</p>
+I sit at the intersection of traditional big data, rigorous cloud infrastructure, and Generative AI, and I am actively evolving toward **Staff / Principal-level engineering roles**.
 
-<hr/>
+---
 
-<h2>🚀 What I’m Currently Working On</h2>
-<ul>
-  <li>Designing <strong>enterprise-scale data platforms</strong> on <strong>AWS + Snowflake</strong></li>
-  <li>Building <strong>high-throughput ETL pipelines</strong> using PySpark, Glue, Airflow, and SQL</li>
-  <li>Developing <strong>Retrieval-Augmented Generation (RAG)</strong> systems using vector databases, embeddings, and LLM orchestration</li>
-  <li>Applying <strong>system design principles</strong> to distributed, fault-tolerant backend services</li>
-  <li>Preparing for <strong>Senior / Staff Data Engineer & AI Engineer interviews</strong> (Google-scale expectations)</li>
-</ul>
+### 🚀 What I'm Currently Working On
+* **Enterprise-Scale Data Platforms:** Designing and deploying fault-tolerant architectures on **AWS & Snowflake**.
+* **High-Throughput Pipelines:** Building and optimizing resilient ETL workflows using **PySpark, Glue, Airflow, and SQL**.
+* **Generative AI & RAG:** Developing smart retrieval systems using vector databases, sophisticated document chunking strategies, and LLM orchestration (including LangChain, Gemini, and GPT frameworks).
+* **Backend System Design:** Applying distributed system principles to build robust, real-time REST APIs and microservices.
 
-<hr/>
+### 🧠 What I'm Currently Learning
+* **Advanced RAG Architectures:** Deep diving into hybrid search, retrieval evaluation metrics, and LLM cost optimization.
+* **Agentic Systems:** Exploring tool calling vs. autonomous agents, memory management, and complex AI orchestration.
+* **Cloud-Native Scale:** Mastering the scalability, reliability, and observability of distributed backend systems.
+* **High-Performance Compute:** Unpacking advanced **Python & Spark internals** for petabyte-scale processing.
 
-<h2>🧠 What I’m Currently Learning</h2>
-<ul>
-  <li>Advanced <strong>RAG architectures</strong> (chunking strategies, hybrid search, evaluation, cost optimization)</li>
-  <li><strong>LLM systems design</strong>: tool calling vs agents, hybrid agent architectures, memory & orchestration</li>
-  <li><strong>Cloud-native distributed systems</strong> (scalability, reliability, observability)</li>
-  <li>Advanced <strong>Python & Spark internals</strong> for high-performance data processing</li>
-  <li><strong>AI platform design</strong> aligned with real-world production constraints</li>
-</ul>
+---
 
-<hr/>
+### 🤝 Let's Collaborate
+I'm always open to discussing tech, sharing knowledge, or collaborating on ambitious projects. Let's connect if you are interested in:
+* **System Design Discussions** (Google / Meta / Uber scale expectations).
+* **Enterprise RAG / GenAI** use cases and real-world production constraints.
+* **Open-Source** data engineering and AI tooling.
+* Knowledge-sharing around **AWS, Snowflake, and LLMs**.
 
-<h2>🤝 I’m Looking to Collaborate On</h2>
-<ul>
-  <li><strong>RAG / GenAI projects</strong> (enterprise use cases preferred)</li>
-  <li><strong>Open-source</strong> data engineering or AI tooling</li>
-  <li><strong>System design discussions</strong> (Google / Meta / Uber scale)</li>
-  <li><strong>Knowledge-sharing sessions</strong> around AWS, Spark, Snowflake, and LLMs</li>
-</ul>
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🧑‍🏫 I Love Helping With</h3>
+      <ul>
+        <li><b>Career Mentorship:</b> Navigating the path from Mid ➡️ Senior ➡️ Staff Engineer.</li>
+        <li><b>Interview Prep:</b> Tackling technical rounds for Python, PySpark, AWS, and SQL.</li>
+        <li><b>Resume Optimization:</b> Tailoring profiles for top-tier Data & AI roles.</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>💬 Ask Me About</h3>
+      <ul>
+        <li>Data Warehouses vs. Data Lakes vs. Lakehouses</li>
+        <li>AWS Glue architecture & PySpark performance tuning</li>
+        <li>RAG system design in production environments</li>
+        <li>Transitioning from Data Engineer ➡️ AI Engineer</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
-<p>
-  If you’re building something serious in <strong>data, AI, or backend systems</strong>,
-  I’m always open to collaborating.
-</p>
+---
 
-<hr/>
+### 🎯 Career Direction
+I am actively positioning myself for high-impact technical leadership roles where I can:
+> **Own architecture decisions** | **Lead data & AI transformations** | **Mentor engineering teams** | **Build systems that scale to millions of users**
 
-<h2>🧑‍🏫 I Love Helping With</h2>
-<ul>
-  <li>Data engineering career guidance (mid → senior → staff)</li>
-  <li>Interview prep for <strong>Python, PySpark, AWS, SQL</strong></li>
-  <li>Explaining complex topics like <strong>RAG, distributed systems, and cloud architecture</strong> in simple terms</li>
-  <li>Resume optimization for <strong>data & AI roles</strong></li>
-</ul>
+### ⚡ Fun Fact
+I genuinely enjoy breaking down *extremely complex systems*—from Spark memory management internals to multi-agent LLM architectures—into explanations that actually make sense. If something feels confusing, I probably enjoy explaining it! 😄
 
-<hr/>
-
-<h2>💬 Ask Me About</h2>
-<ul>
-  <li>Data Warehouses vs Data Lakes vs Lakehouse</li>
-  <li>AWS Glue architecture & optimization</li>
-  <li>PySpark performance tuning</li>
-  <li>RAG system design in production</li>
-  <li>Backend system design interviews</li>
-  <li>Transitioning from <strong>Data Engineer → AI Engineer</strong></li>
-</ul>
-
-<hr/>
-
-<h2>🛠️ Core Skills & Tech Stack</h2>
-<ul>
-  <li><strong>Languages:</strong> Python, SQL</li>
-  <li><strong>Big Data:</strong> PySpark, Spark SQL</li>
-  <li><strong>Cloud:</strong> AWS (S3, Glue, Lambda, Redshift, IAM)</li>
-  <li><strong>Data Platforms:</strong> Snowflake</li>
-  <li><strong>Orchestration:</strong> Apache Airflow</li>
-  <li><strong>AI / GenAI:</strong> RAG, embeddings, vector databases, LLM orchestration</li>
-  <li><strong>Engineering:</strong> Distributed systems, system design, performance optimization</li>
-  <li><strong>Infrastructure:</strong> Terraform, CloudFormation</li>
-  <li><strong>Ways of Working:</strong> Agile, cross-team collaboration, mentorship</li>
-</ul>
-
-<hr/>
-
-<h2>🎯 Career Direction</h2>
-<p>
-  I’m actively positioning myself for <strong>Senior / Staff-level roles</strong> where I can:
-</p>
-<ul>
-  <li>Own <strong>architecture decisions</strong></li>
-  <li>Lead <strong>high-impact data & AI initiatives</strong></li>
-  <li>Mentor engineers</li>
-  <li>Build systems that scale to <strong>millions of users and petabytes of data</strong></li>
-</ul>
-
-<hr/>
-
-<h2>⚡ Fun Fact</h2>
-<p>
-  I enjoy breaking down <strong>extremely complex systems</strong>—from Spark internals to LLM agent architectures—
-  into explanations that actually make sense.  
-  If something feels confusing, I probably enjoy explaining it 😄
-</p>
-
-
+<br/>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jitesh___talreja) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jitesh-talreja-015823105) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@jiteshtalreja) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jitesh.talreja101@gmail.com) 
