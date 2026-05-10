@@ -144,8 +144,8 @@ I genuinely enjoy breaking down *extremely complex systems*—from Spark memory 
 ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=JiteshTalreja&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=JiteshTalreja&theme=catppuccin_mocha&hide_border=false)<br/>
+![Jitesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=JiteshTalreja&show_icons=true&theme=tokyonight&count_private=true)<br/>
+[![GitHub Streak](https://streak-stats.demolab.com?user=JiteshTalreja&theme=catppuccin-mocha&hide_border=false)](https://git.io/streak-stats)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=JiteshTalreja&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
